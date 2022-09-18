@@ -1,6 +1,6 @@
 // Sum of all even and odd no. present in an array.
 
-class PositiveNoSum
+class EvenOddSum
 {
     public static void main(String [] args)
     {
